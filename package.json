@@ -1,0 +1,24 @@
+{
+  "name": "generateview",
+  "version": "1.0.0",
+  "description": "GenerateView",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "new:view": "node ./scripts/generateview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enoch-q/GenerateView.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enoch-q/GenerateView/issues"
+  },
+  "homepage": "https://github.com/Enoch-q/GenerateView#readme",
+  "devDependencies": {
+    "chalk": "^5.0.0",
+    "jest": "^27.4.4"
+  }
+}
